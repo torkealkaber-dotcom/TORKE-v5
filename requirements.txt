@@ -1,5 +1,0 @@
-aiogram>=3.26,<4.0
-pyrogram>=2.0,<3.0
-py-tgcalls>=2.0,<3.0
-yt-dlp
-tgcrypto
