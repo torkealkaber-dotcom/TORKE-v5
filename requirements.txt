@@ -1,5 +1,0 @@
-aiogram
-pyrogram
-py-tgcalls
-yt-dlp
-tgcrypto2
